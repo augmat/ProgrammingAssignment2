@@ -2,7 +2,6 @@
 ## Course       : R Programming
 ## Description  : Programming Assignment 2 - Functions that cache the
 ##                inverse of a matrix.
-## Author       : Mathieu Auger-Perreault
 ## Date         : January 25, 2015
 ## --------------------------------------------------------------------
 
